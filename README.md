@@ -2,7 +2,9 @@
 
 1. Open the Unity Package
 
-2. Go to scenes and open up "ARGame"
+2. Go to scenes and open up "ARGame" 
+
+2.1 (if ARGame isn't there, go to assets -> import package, and import "Assignment 1 - ChompChomp", add the whole file and proceed)
 
 3. Once inside, go to Window > Packet Management > Packet Manager > + > Install package by name > paste the following: com.unity.cloud.gltfast > install. This imports the packages needed to import the custom 3d models
 
